@@ -1,0 +1,17 @@
+public class Main
+{
+	public static void main(String[] args) {
+	  
+	
+    int height = 160;
+
+    {if (height>=160)
+        System.out.println("allowed");
+    
+        
+    }
+	
+	
+	
+	}
+}
